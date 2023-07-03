@@ -1,0 +1,176 @@
+[
+  {
+    "studyDbId": "DRX230673",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237861",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230673"
+  },
+  {
+    "studyDbId": "DRX230674",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237862",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230674"
+  },
+  {
+    "studyDbId": "DRX230675",
+    "studyName": "Illumina HiSeq 2000 paired end sequencing of SAMD00237863",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230675"
+  },
+  {
+    "studyDbId": "DRX230676",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237864",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230676"
+  },
+  {
+    "studyDbId": "DRX230678",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237866",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230678"
+  },
+  {
+    "studyDbId": "DRX230679",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237867",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230679"
+  },
+  {
+    "studyDbId": "DRX230680",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237868",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230680"
+  },
+  {
+    "studyDbId": "DRX230681",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237869",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230681"
+  },
+  {
+    "studyDbId": "DRX230682",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237870",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230682"
+  },
+  {
+    "studyDbId": "DRX230683",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237871",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230683"
+  },
+  {
+    "studyDbId": "DRX230684",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237872",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230684"
+  },
+  {
+    "studyDbId": "DRX230686",
+    "studyName": "Illumina HiSeq 2000 paired end sequencing of SAMD00237874",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230686"
+  },
+  {
+    "studyDbId": "DRX230689",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237877",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230689"
+  },
+  {
+    "studyDbId": "DRX230690",
+    "studyName": "Illumina HiSeq 2000 paired end sequencing of SAMD00237878",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230690"
+  },
+  {
+    "studyDbId": "DRX230691",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237879",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230691"
+  },
+  {
+    "studyDbId": "DRX230692",
+    "studyName": "Illumina HiSeq 2000 paired end sequencing of SAMD00237880",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230692"
+  },
+  {
+    "studyDbId": "DRX230693",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237881",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230693"
+  },
+  {
+    "studyDbId": "DRX230694",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237882",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230694"
+  },
+  {
+    "studyDbId": "DRX230695",
+    "studyName": "Illumina HiSeq 2000 paired end sequencing of SAMD00237883",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230695"
+  },
+  {
+    "studyDbId": "DRX230696",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237884",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230696"
+  },
+  {
+    "studyDbId": "DRX230697",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237885",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230697"
+  },
+  {
+    "studyDbId": "DRX230698",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237886",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230698"
+  },
+  {
+    "studyDbId": "DRX230699",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237887",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230699"
+  },
+  {
+    "studyDbId": "DRX230700",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237888",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230700"
+  },
+  {
+    "studyDbId": "DRX230702",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237890",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230702"
+  },
+  {
+    "studyDbId": "DRX230709",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237897",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230709"
+  },
+  {
+    "studyDbId": "DRX230710",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237898",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230710"
+  },
+  {
+    "studyDbId": "DRX230711",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237899",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230711"
+  },
+  {
+    "studyDbId": "DRX230714",
+    "studyName": "HiSeq X Ten paired end sequencing of SAMD00237902",
+    "studyType": "Genomic Study",
+    "documentationURL": "https://ddbj.nig.ac.jp/resource/sra-experiment/DRX230714"
+  }
+]
