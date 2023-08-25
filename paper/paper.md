@@ -65,7 +65,6 @@ We also initated the work on knowledge graph building by reviewing some the pote
 
 
 
-![Caption for BioHackrXiv logo figure](./biohackrxiv.png)
 
 # Future work
 We will finalize the DDBJ databases indexation in FAIDARE public instance after validation by DDBJ teams.
